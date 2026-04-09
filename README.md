@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/pypi/pyversions/docs101)](https://pypi.org/project/docs101/)
 
-Python client for the docs101 invoicing API — create customers, generate EU-compliant invoices, and export to DATEV.
+Python client for the [docs101](https://docs101.com) invoicing API — create customers, generate EU-compliant invoices, and export to DATEV.
 
 ## Installation
 
