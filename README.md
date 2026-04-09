@@ -200,6 +200,7 @@ See the [`examples/`](examples/) directory for complete, runnable scripts:
 
 ## API Documentation
 
+- [API Integration Guide](https://docs101.com/help/developers/api-integration-guide)
 - [Invoice Workflow API Tutorial](https://docs101.com/help/developers/invoice-workflow-api)
 - [Swagger / OpenAPI](https://docs101.com/api/v1/swagger/)
 - [Developer Hub](https://docs101.com/help/developers/)
